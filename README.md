@@ -10,3 +10,8 @@ Exporting gives you a KaBoom compatible javascript snippet you can drop into you
 Grid editor for levels - select your sprite and place/'paint' it on the grid
 
 Be sure to visit the edit->configure menu for options.
+
+
+clone the project & run
+  npm i
+  npm run start
